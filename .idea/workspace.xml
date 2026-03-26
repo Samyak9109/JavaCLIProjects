@@ -1,16 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="616bb021-f101-4273-9be0-448b60e0f802" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.idea/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.idea/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.idea/libraries/mysql_connector_j_9_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.idea/libraries/mysql_connector_j_9_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/HotelManagementSystem.iml" beforeDir="false" afterPath="$PROJECT_DIR$/HospitallManagementSystem/HotelManagementSystem.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/HotelManagementSystem/src/HospitalManagementSystem.java" beforeDir="false" />
-    </list>
+    <list default="true" id="616bb021-f101-4273-9be0-448b60e0f802" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -19,25 +10,25 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "Samyak9109"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;Samyak9109&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "git@github.com:Samyak9109/JavaCLIProjects.git",
-    "accountId": "0ebdae20-3fd0-46d4-932b-048a7abac733"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;git@github.com:Samyak9109/JavaCLIProjects.git&quot;,
+    &quot;accountId&quot;: &quot;0ebdae20-3fd0-46d4-932b-048a7abac733&quot;
   }
-}]]></component>
+}</component>
   <component name="McpProjectServerCommands">
     <commands />
     <urls />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 4
-}]]></component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
   <component name="ProjectId" id="3BQQ2d0E8t8a1psKijYGATMnrLc" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -53,7 +44,7 @@
     "git-widget-placeholder": "main",
     "junie.onboarding.icon.badge.shown": "true",
     "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "/home/samyak/Java/JavaProjects/HospitallManagementSystem",
+    "last_opened_file_path": "/home/samyak/Java/JavaProjects/HospitalManagementSystem",
     "to.speed.mode.migration.done": "true"
   }
 }]]></component>
